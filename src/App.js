@@ -6,8 +6,8 @@ import ButtonWrapper from "./components/ButtonWrapper";
 
 const gridTemplateLargeScreens = `
   ". . . b b b"
-  "c c . b b b"
   ". . . b b b"
+  "c c . b b b"
   "a a . b b b"
   "a a . b b b"
   "a a . b b b"
